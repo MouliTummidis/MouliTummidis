@@ -55,27 +55,6 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MouliTummidis&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MouliTummidis&theme=tokyonight" />
-</p>
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouliTummidis&layout=compact&theme=tokyonight" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MouliTummidis&theme=tokyonight" />
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### ☕ Coffee Shop Website
